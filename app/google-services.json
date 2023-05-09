@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581366422104",
+    "project_id": "emlak-otomasyon",
+    "storage_bucket": "emlak-otomasyon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581366422104:android:96d747616ff474d2b4082d",
+        "android_client_info": {
+          "package_name": "com.example.emlakotomasyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581366422104-5j9juhidbokmctrh973f9i3erd5hq2o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApp0xiJtaqAkjyD6VT3_ewWK0lUyLGv7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581366422104-5j9juhidbokmctrh973f9i3erd5hq2o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
