@@ -32,8 +32,8 @@ class MainActivity : AppCompatActivity() {
 
     }
     fun loginButtonClicked(view:View){
-        val email = binding.emailText.text.toString()
-        val password = binding.passwordText.text.toString()
+        val email = binding.emailText2.text.toString()
+        val password = binding.passwordText2.text.toString()
         if (email.equals("") || password.equals("")) {
             Toast.makeText(this, "Enter email and password", Toast.LENGTH_LONG).show()
 
