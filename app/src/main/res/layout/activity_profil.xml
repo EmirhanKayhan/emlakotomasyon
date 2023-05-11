@@ -4,12 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#1F2630"
     tools:context=".ProfilActivity">
 
     <Button
         android:id="@+id/buttonLogOut"
         android:layout_width="334dp"
         android:layout_height="37dp"
+        android:backgroundTint="#0071DF"
         android:onClick="buttonLogOut"
         android:text="ÇIKIŞ"
         app:layout_constraintBottom_toTopOf="@+id/buttonDelete"
@@ -30,6 +32,7 @@
         android:layout_width="334dp"
         android:layout_height="37dp"
         android:layout_marginBottom="50dp"
+        android:backgroundTint="#FF7A59"
         android:onClick="buttonDelete"
         android:text="HESABI SİL"
         app:layout_constraintBottom_toBottomOf="parent"

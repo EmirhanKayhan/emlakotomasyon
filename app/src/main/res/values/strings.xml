@@ -1,3 +1,104 @@
 <resources>
     <string name="app_name">Emlak Otomasyon</string>
+    <string-array name ="EmlakTipi">
+        <item>Seçiniz</item>
+        <item>Satılık</item>
+        <item>Kiralık</item>
+
+    </string-array>
+
+    <string-array name ="OdaSayisi">
+        <item>Seçiniz</item>
+        <item>1+0</item>
+        <item>1+1</item>
+        <item>2+0</item>
+        <item>2+1</item>
+        <item>2.5+1</item>
+        <item>3+0</item>
+        <item>3+1</item>
+        <item>3.5+1</item>
+        <item>3+2</item>
+        <item>4+0</item>
+        <item>4+1</item>
+        <item>4.5+1</item>
+        <item>4+2</item>
+        <item>4+3</item>
+        <item>5+1</item>
+        <item>Diğer</item>
+    </string-array>
+
+    <string-array name ="BinaYasi">
+        <item>Seçiniz</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5-10 arası</item>
+        <item>11-15 arası</item>
+        <item>16-20 arası</item>
+        <item>21-25 arası</item>
+        <item>26-30 arası</item>
+        <item>31 ve üzeri</item>
+    </string-array>
+
+    <string-array name ="BulunduguKat">
+        <item>Seçiniz</item>
+        <item>Giriş altı</item>
+        <item>Zemin kat</item>
+        <item>Müstakil</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20 ve üzeri</item>
+    </string-array>
+
+    <string-array name ="Isitma">
+        <item>Seçiniz</item>
+        <item>Yok</item>
+        <item>Soba</item>
+        <item>Doğalgaz</item>
+        <item>Kalorifer</item>
+        <item>Yerden Isıtma</item>
+        <item>Güneş Enerjisi</item>
+        <item>Merkezi Sistem</item>
+
+    </string-array>
+
+    <string-array name ="Balkon">
+        <item>Seçiniz</item>
+        <item>Var</item>
+        <item>Yok</item>
+    </string-array>
+    <string-array name ="Esyali">
+        <item>Seçiniz</item>
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string-array name ="BanyoSayisi">
+        <item>Seçiniz</item>
+        <item>Yok</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6 ve üzeri</item>
+    </string-array>
 </resources>
